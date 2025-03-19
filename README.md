@@ -22,33 +22,26 @@ Though I believe that having better or worse tools doesn't make any difference. 
 ## 🚀 Projects
 **This feels like *play to me* and I love every second of it**
 
-### 📸 [Picslify](https://github.com/yourusername/picslify)
+### 📸 [Picslify](https://github.com/piyushgyl01/picslify-frontend)
 **Preserve Your Precious Memories**
 
 I developed Picslify, a full-stack cloud-based photo storage application that helps users preserve their cherished memories. The platform features secure authentication, intuitive image organization, and seamless sharing capabilities.
 
 `React` `Express` `JWT Auth` `MongoDB` `Bootstrap`
 
-### 💻 [Eous](https://github.com/yourusername/eous)
+### 💻 [Eous](https://github.com/piyushgyl01/eous-frontend-03)
 **Build state of art custom PCs**
 
 Eous is an ecommerce platform for custom PC builds with interactive component selection and real-time compatibility checks. Users can configure and purchase personalized computer systems through a responsive React frontend backed by Express and MongoDB.
 
 `React` `Express` `MongoDB` `Bootstrap`
 
-### 📊 [CRMABLES](https://github.com/yourusername/crmables)
+### 📊 [CRMABLES](https://github.com/piyushgyl01/crmables-frontend)
 **A CRM App**
 
 CRMABLES is a streamlined CRM app for managing leads and sales agents. Built with React and Express, it offers both web and mobile interfaces for tracking customer relationships from anywhere.
 
 `React` `Express` `MongoDB` `Bootstrap` `Material UI`
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 📫 Let's talk
 **Feel free to *reach out* to me on**
@@ -66,7 +59,7 @@ CRMABLES is a streamlined CRM app for managing leads and sales agents. Built wit
   <a href="https://wa.me/919319935187">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/piyushgyl01">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 </div>
