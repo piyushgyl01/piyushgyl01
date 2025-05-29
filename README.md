@@ -59,7 +59,7 @@ CRMABLES is a streamlined CRM app for managing leads and sales agents. Built wit
   <a href="https://wa.me/919319935187">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+<a href="https://x.com/piyush_gyl">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 </div>
